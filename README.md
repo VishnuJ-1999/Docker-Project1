@@ -52,3 +52,6 @@ CMD ["python", "calculator.py"]
 <img width="1190" height="521" alt="docker container" src="https://github.com/user-attachments/assets/e6f541fa-e500-4bbd-b9a3-246b25814253" />
 <img width="1560" height="765" alt="docker-image" src="https://github.com/user-attachments/assets/b36bb54e-58f0-41ed-bf42-baeb3f82b162" />
 
+Multistage Docker Build to reduce the size of container image : - <img width="915" height="92" alt="image" src="https://github.com/user-attachments/assets/5ad749cd-b898-4c63-b97f-9f205510e967" />
+
+
